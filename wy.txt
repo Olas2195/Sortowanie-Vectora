@@ -1,0 +1,5 @@
+[
+{"Punkty:"142,"Imie":Maciej,"Nazwisko":Wisniewski},
+{"Punkty:"132,"Imie":Jan,"Nazwisko":Kowalski},
+{"Punkty:"1,"Imie":Janusz,"Nazwisko":Kowalski},
+]
